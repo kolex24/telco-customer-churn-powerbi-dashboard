@@ -1,10 +1,10 @@
-📉 Customer Retention & Churn Analysis | Power BI Dashboard
+#📉 Customer Retention & Churn Analysis | Power BI Dashboard
 
 An interactive Power BI dashboard that analyzes why telecom customers leave, which segments are most at risk, and how much revenue is on the line, followed by data-driven retention recommendations.
 
 Dashboard Preview
 
-📌 Table of Contents
+##📌 Table of Contents
 Business Problem
 Dataset
 Tools & Skills
@@ -14,22 +14,26 @@ Strategic Recommendations
 Dashboard Limitations & Next Steps
 Repository Structure
 About the Author
-🎯 Business Problem
+
+##🎯 Business Problem
 
 A telecom company is losing customers and revenue to churn. Leadership needs to know:
 
 How big is the churn problem, and what does it cost?
 Which customer segments and service features are driving churn?
 What actions can reduce churn and protect recurring revenue?
-🗂 Dataset
+
+##🗂 Dataset
 Source: IBM Telco Customer Churn dataset (WA_Fn-UseC_-Telco-Customer-Churn)
 Size: ~7,043 customers
 Features include: contract type, tenure, internet service, tech support, payment method, monthly and total charges, demographics (senior citizen, partner, dependents), and a churn flag.
-🛠 Tools & Skills
-Power BI Desktop for data modeling and dashboard design
-DAX for measures (churn rate, monthly charge at risk, tenure brackets, and more)
-Power Query for data cleaning and transformation
-Skills demonstrated: KPI design, segmentation analysis, data storytelling, business recommendations
+
+## 🛠 Tools & Skills
+- Power BI Desktop for data modeling and dashboard design
+- DAX for measures (churn rate, monthly charge at risk, tenure brackets, and more)
+- Power Query for data cleaning and transformation
+- Skills demonstrated: KPI design, segmentation analysis, data storytelling, business recommendations
+
 📊 Dashboard Overview
 KPI	Value
 Customers	~7K
