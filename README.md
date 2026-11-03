@@ -35,14 +35,15 @@ Features include: contract type, tenure, internet service, tech support, payment
 - Skills demonstrated: KPI design, segmentation analysis, data storytelling, business recommendations
 
 ## 📊 Dashboard Overview
-KPI	Value
-Customers	~7K
-Churn Rate	26.54%
-Average Tenure	32.37 months
-Monthly Charge (total)	456.12K
-Monthly Charge at Risk	139.13K
-Total Charge	16.06M
-Avg Total Charge at Risk	1.53K
+| KPI |	Value
+|---|---|
+| Customers |	~7K
+| Churn Rate |	26.54%
+| Average Tenure |	32.37 months
+| Monthly Charge (total) |	456.12K
+| Monthly Charge at Risk |	139.13K
+| Total Charge |	16.06M
+| Avg Total Charge at Risk |	1.53K
 
 Visuals included: churn by contract, tech support, dependents, partner, senior citizen, payment method, monthly charge bins, internet service vs. tenure, and tenure bracket.
 
@@ -80,20 +81,14 @@ Customers paying by electronic or mailed check churn at roughly 2x the rate of t
 
 
 ## 💡 Strategic Recommendations
-#	Problem	Recommendation	Expected Impact
-1	75% of churners are on month-to-month contracts	Offer discounts or perks (free upgrade, bill credit) for moving to 12- or 24-month contracts, targeted at month-to-month customers in their first year	Lower churn in the largest at-risk segment
-2	No tech support = 2.7x higher churn	Bundle tech support free for the first 3-6 months, especially with fiber plans, and add proactive outreach after service issues	Fewer unresolved issues and lower churn
-3	Fiber customers churn at 2x DSL	Audit fiber pricing against competitors, run satisfaction surveys on reliability and speed, and add loyalty pricing at the 12-24 month mark, when fiber churn occurs	Protect high-value customers
-4	Manual payers churn 2x more	Offer a small credit or discount for enrolling in autopay, starting with electronic check users	Higher retention through lower billing friction
+Problem	Recommendation	Expected Impact
+1.	75% of churners are on month-to-month contracts	Offer discounts or perks (free upgrade, bill credit) for moving to 12- or 24-month contracts, targeted at month-to-month customers in their first year	Lower churn in the largest at-risk segment
+2.	No tech support = 2.7x higher churn	Bundle tech support free for the first 3-6 months, especially with fiber plans, and add proactive outreach after service issues	Fewer unresolved issues and lower churn
+3.	Fiber customers churn at 2x DSL	Audit fiber pricing against competitors, run satisfaction surveys on reliability and speed, and add loyalty pricing at the 12-24 month mark, when fiber churn occurs	Protect high-value customers
+4.	Manual payers churn 2x more	Offer a small credit or discount for enrolling in autopay, starting with electronic check users	Higher retention through lower billing friction
 5	Single seniors are the highest-risk profile	Create a senior-friendly plan with simplified billing and a dedicated support line, plus household or family bundles	Reduce churn in a vulnerable segment
-6	Churn is only visible after it happens	Build a churn-risk score from contract, tenure, tech support, and payment method, and trigger retention outreach for high-risk accounts	Shift from reactive to proactive retention
+6,	Churn is only visible after it happens	Build a churn-risk score from contract, tenure, tech support, and payment method, and trigger retention outreach for high-risk accounts	Shift from reactive to proactive retention
 
 Illustrative impact: each 1-percentage-point reduction in churn is worth about $5.2K in monthly revenue (~$63K annually). A 5-point reduction would protect roughly $315K per year.
 
-## 🔧 Dashboard Limitations & Next Steps
-Split the payment method visual into two charts (churn rate and revenue); on a shared axis the churn line is nearly invisible.
-Add a churn rate by InternetService donut and update the fiber annotation to say "churn at ~2x the rate of DSL."
-Add a MonthlyCharges by InternetService matrix to separate the effect of price from the effect of service type.
-Add average monthly charge by SeniorCitizen to test whether high-spending seniors drive revenue risk.
-Rename the "Dashbord" page tab and tidy chart titles.
-Extend with a predictive churn model (Python / scikit-learn) to score customers.
+
