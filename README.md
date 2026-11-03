@@ -48,7 +48,7 @@ Features include: contract type, tenure, internet service, tech support, payment
 Visuals included: churn by contract, tech support, dependents, partner, senior citizen, payment method, monthly charge bins, internet service vs. tenure, and tenure bracket.
 
 ## 🔍 Key Insights
-1. The overall cost of churn: About 26.54% of customers (1,858) have churned, putting 139.13K in monthly revenue at risk (~$1.67M annualized). Churners pay more than average (~$75 vs. ~$65 per month), so revenue loss is outpacing customer loss.
+1. The overall cost of churn: About 26.54% of customers (1,858) have churned, putting 139.13K in monthly revenue at risk (~$1.67M annualized). Churners pay more than average ($75 vs. $65 per month), so revenue loss is outpacing customer loss.
 
 
 2. Contract type is the strongest churn driver: Month-to-month customers churn at 42.71%, roughly 15x the rate of two-year customers (2.83%), and account for 75.18% of all churners. Longer contracts clearly improve retention, though part of that effect may be lock-in rather than true loyalty.
