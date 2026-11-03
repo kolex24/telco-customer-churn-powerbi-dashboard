@@ -73,11 +73,11 @@ The highest-risk profile is a single senior customer living alone.
 | Problem	Recommendation |	Expected Impact
 |---|---|
 | 1.	75% of churners are on month-to-month contracts	Offer discounts or perks (free upgrade, bill credit) for moving to 12- or 24-month contracts, targeted at month-to-month customers in their first year	Lower churn in the largest at-risk segment | Lower churn in the largest at-risk segment
-2.	No tech support = 2.7x higher churn	Bundle tech support free for the first 3-6 months, especially with fiber plans, and add proactive outreach after service issues	Fewer unresolved issues and lower churn
-3.	Fiber customers churn at 2x DSL	Audit fiber pricing against competitors, run satisfaction surveys on reliability and speed, and add loyalty pricing at the 12-24 month mark, when fiber churn occurs	Protect high-value customers
-4.	Manual payers churn 2x more	Offer a small credit or discount for enrolling in autopay, starting with electronic check users	Higher retention through lower billing friction
-5.	Single seniors are the highest-risk profile	Create a senior-friendly plan with simplified billing and a dedicated support line, plus household or family bundles	Reduce churn in a vulnerable segment
-6.	Churn is only visible after it happens	Build a churn-risk score from contract, tenure, tech support, and payment method, and trigger retention outreach for high-risk accounts	Shift from reactive to proactive retention
+| 2.	No tech support = 2.7x higher churn	Bundle tech support free for the first 3-6 months, especially with fiber plans, and add proactive outreach after service issues	Fewer unresolved issues and lower churn | Fewer unresolved issues and lower churn
+| 3.	Fiber customers churn at 2x DSL	Audit fiber pricing against competitors, run satisfaction surveys on reliability and speed, and add loyalty pricing at the 12-24 month mark, when fiber churn occurs	Protect high-value customers | Protect high-value customers
+| 4.	Manual payers churn 2x more	Offer a small credit or discount for enrolling in autopay, starting with electronic check users	Higher retention through lower billing friction | Higher retention through lower billing friction
+| 5.	Single seniors are the highest-risk profile	Create a senior-friendly plan with simplified billing and a dedicated support line, plus household or family bundles	Reduce churn in a vulnerable segment | Reduce churn in a vulnerable segment
+| 6.	Churn is only visible after it happens	Build a churn-risk score from contract, tenure, tech support, and payment method, and trigger retention outreach for high-risk accounts	Shift from reactive to proactive retention | Shift from reactive to proactive retention
 
 Illustrative impact: each 1-percentage-point reduction in churn is worth about $5.2K in monthly revenue (~$63K annually). A 5-point reduction would protect roughly $315K per year.
 
