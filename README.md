@@ -70,7 +70,7 @@ The highest-risk profile is a single senior customer living alone.
 
 
 ## 💡 Strategic Recommendations
-Problem	Recommendation	Expected Impact
+| Problem	Recommendation |	Expected Impact
 1.	75% of churners are on month-to-month contracts	Offer discounts or perks (free upgrade, bill credit) for moving to 12- or 24-month contracts, targeted at month-to-month customers in their first year	Lower churn in the largest at-risk segment
 2.	No tech support = 2.7x higher churn	Bundle tech support free for the first 3-6 months, especially with fiber plans, and add proactive outreach after service issues	Fewer unresolved issues and lower churn
 3.	Fiber customers churn at 2x DSL	Audit fiber pricing against competitors, run satisfaction surveys on reliability and speed, and add loyalty pricing at the 12-24 month mark, when fiber churn occurs	Protect high-value customers
