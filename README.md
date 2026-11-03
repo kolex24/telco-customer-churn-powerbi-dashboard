@@ -5,15 +5,15 @@ An interactive Power BI dashboard that analyzes why telecom customers leave, whi
 Dashboard Preview
 
 ## 📌 Table of Contents
-Business Problem
-Dataset
-Tools & Skills
-Dashboard Overview
-Key Insights
-Strategic Recommendations
-Dashboard Limitations & Next Steps
-Repository Structure
-About the Author
+- Business Problem
+- Dataset
+- Tools & Skills
+- Dashboard Overview
+- Key Insights
+- Strategic Recommendations
+- Dashboard Limitations & Next Steps
+- Repository Structure
+- About the Author
 
 ## 🎯 Business Problem
 
@@ -90,5 +90,8 @@ Problem	Recommendation	Expected Impact
 6,	Churn is only visible after it happens	Build a churn-risk score from contract, tenure, tech support, and payment method, and trigger retention outreach for high-risk accounts	Shift from reactive to proactive retention
 
 Illustrative impact: each 1-percentage-point reduction in churn is worth about $5.2K in monthly revenue (~$63K annually). A 5-point reduction would protect roughly $315K per year.
+
+<img width="666" height="332" alt="Screenshot 2025-12-29 184238" src="https://github.com/user-attachments/assets/8952ce95-6a25-47ca-9d8b-4059c45154c4" />
+
 
 
