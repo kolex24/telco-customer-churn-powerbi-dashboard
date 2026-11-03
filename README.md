@@ -11,9 +11,6 @@ Dashboard Preview
 - Dashboard Overview
 - Key Insights
 - Strategic Recommendations
-- Dashboard Limitations & Next Steps
-- Repository Structure
-- About the Author
 
 ## 🎯 Business Problem
 
